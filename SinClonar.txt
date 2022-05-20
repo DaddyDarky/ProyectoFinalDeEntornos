@@ -1,0 +1,2 @@
+En este proyecto lo que hare sera refactorizar el codigo ya que se nos ha dado en el ejercicio.
+Pero en este caso lo hare en IntelliJ
